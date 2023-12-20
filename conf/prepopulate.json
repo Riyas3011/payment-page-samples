@@ -10,7 +10,7 @@
     },
     "bankTransfer" : {
         "bankAccountNumber": "",
-        "bankAccountName": "Riyass PAD Test",
+        "bankAccountName": "Riyas PAD Test",
         "bankCode": "",
         "bankName": "bankName",
         "firstName": "firstName",
